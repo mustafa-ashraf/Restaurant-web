@@ -832,7 +832,7 @@ color: white;
 ======================================  
 */
 footer{
-  background: url("/assets/img/footer.webp");
+  background: url("assets/img/footer.webp");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
