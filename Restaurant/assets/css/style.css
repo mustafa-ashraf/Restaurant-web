@@ -1,6 +1,6 @@
 /*
 ======================================
-        publics styles
+       ss publics styles
 ======================================
 */
 html {
@@ -85,13 +85,15 @@ body{
   right:0;
   bottom: 0;
   padding:20px;
-  color: white;
   border-radius: 50%;
   z-index: 10000008888;
 
 }
-.scroll-home-icon:hover i{
-  color:#091a23;
+.scroll-home-icon i{
+  color:white ;
+}
+.scroll-home-icon a:hover i{
+  color:black;
 }
 
 
